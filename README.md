@@ -5,6 +5,8 @@ Please send me a pull request with your project!
 
 More project can be found here: https://www.gnunet.org/links/
 
+This list is published under [GNU GPLv3](LICENSE).
+
 ## Categories
 
 * [Web](#web)
