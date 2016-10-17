@@ -145,6 +145,8 @@ Fast, private file sharing for teams and individuals.
 [**Syncthing**](https://syncthing.net/)
 Private sync & file sharing for your files.
 
+[**Librevault**](https://librevault.com/)
+Open source zero-knowledge P2P file sync.
 
 ### In Progress..
 
@@ -156,3 +158,6 @@ Fully decentralized and distributed social platform.
 
 [**OpenLibernet**](http://openlibernet.org/)
 Global mesh communication network.
+
+[**Orbit**](https://github.com/haadcode/orbit)
+Distributed, serverless chat application on IPFS
