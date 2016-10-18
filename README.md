@@ -66,6 +66,9 @@ Fun & safe messaging app for private conversations.
 * [**Classified-Ads**](https://github.com/operatornormal/classified-ads/)
 Server-less program for internet communications, including public and private messages.
 
+* [**Orbit**](https://github.com/haadcode/orbit)
+Distributed, serverless chat application on IPFS.
+
 
 ### Platforms & Frameworks
 
@@ -150,6 +153,9 @@ Fast, private file sharing for teams and individuals.
 
 * [**Syncthing**](https://syncthing.net/)
 Private sync & file sharing for your files.
+
+* [**Librevault**](https://librevault.com/)
+Open source zero-knowledge P2P file sync.
 
 
 ### In Progress..
