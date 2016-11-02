@@ -75,6 +75,9 @@ Distributed, serverless chat application on IPFS.
 * [**ethereum**](https://www.ethereum.org/)
 Blockchain-based virtual machine and Web 3.0 platform.
 
+* [**Blockstack**](https://blockstack.org)
+Decentralized application platform with DNS, identity, authentication, storage and a web browser
+
 * [**Factom**](http://factom.org/)
 Decentralized data layer for the blockchain.
 
