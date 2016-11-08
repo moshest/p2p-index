@@ -99,6 +99,9 @@ Secure framework for peer-to-peer networking.
 * [***PeerSim***](http://peersim.sourceforge.net/)
 A Peer-to-Peer Simulator.
 
+* [***Mediachain***](http://mediachain.io/)
+A decentralized, open, programmable media library.
+
 
 ### Finance
 
