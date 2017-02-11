@@ -47,6 +47,9 @@ Decentralized websites network.
 * [**YaCy**](http://yacy.net/en/index.html)
 P2P search engine.
 
+* [**Loklak**](http://loklak.org/)
+P2P Decentralized Twitter and Micromessage harvester
+
 
 
 ### Communication
