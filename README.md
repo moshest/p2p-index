@@ -105,6 +105,9 @@ A Peer-to-Peer Simulator.
 * [***Mediachain***](http://mediachain.io/)
 A decentralized, open, programmable media library.
 
+* [***RemoteLib***](https://github.com/remotelib/remote-lib)
+Convert JavaScript code to a remote service.
+
 
 ### Finance
 
