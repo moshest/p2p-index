@@ -51,7 +51,6 @@ P2P search engine.
 P2P Decentralized Twitter and Micromessage harvester
 
 
-
 ### Communication
 
 * [**Retroshare**](http://retroshare.sourceforge.net/)
@@ -71,6 +70,9 @@ Server-less program for internet communications, including public and private me
 
 * [**Orbit**](https://github.com/haadcode/orbit)
 Distributed, serverless chat application on IPFS.
+
+* [**Patchwork**](https://github.com/ssbc/patchwork)
+A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB)
 
 
 ### Platforms & Frameworks
@@ -108,6 +110,9 @@ A decentralized, open, programmable media library.
 * [***RemoteLib***](https://github.com/remotelib/remote-lib)
 Convert JavaScript code to a remote service.
 
+* [**Secure Scuttlebutt (SSB)**](https://github.com/ssbc/secure-scuttlebutt)
+A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols.
+
 
 ### Finance
 
@@ -127,7 +132,6 @@ P2P platform for tipping on all of the web's sites.
 Decentralised crowdfunding built on Etherum
 
 
-
 ### Data Transfer & Streamming
 
 * [**PeerCDN**](http://peercdn.com)
@@ -144,6 +148,9 @@ Peer-to-peer network of Git repositories being shared over BitTorrent.
 
 * [**WebTorrent**](https://github.com/feross/webtorrent)
 Streaming torrent client for node & the browser.
+
+* [**Ferment**](https://github.com/LolaShare/ferment)
+A peer-to-peer audio publishing and streaming application based on Secure Scuttlebutt (SSB)
 
 
 ### Storage
