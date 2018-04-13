@@ -60,7 +60,7 @@ Secure sharing software for messages, forums and chats.
 * [**Bitmessage**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
 
-* [**Tox**](https://tox.im/)
+* [**Tox**](https://tox.chat/)
 Secure & open-source instant messaging.
 
 * [**Bleep**](http://www.bleep.pm/)
