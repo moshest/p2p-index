@@ -35,6 +35,12 @@ It's similar to Freenet, GNUnet and Tor.
 * [**Aether**](http://getaether.net/)
 Anonymous reddit without servers.
 
+* [**Plume**](https://github.com/deiu/solid-plume/)
+Plume is a 100% client-side blogging platform, built using [Solid](https://solid.mit.edu/) standards
+
+* [**Cimba**](https://github.com/linkeddata/cimba/)
+Client-Integrated Micro-Blogging Architecture application.
+
 * [**twister**](http://twister.net.co/)
 P2P microblogging platform.
 
