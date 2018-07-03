@@ -57,7 +57,6 @@ P2P search engine.
 P2P Decentralized Twitter and Micromessage harvester
 
 
-
 ### Communication
 
 * [**Retroshare**](http://retroshare.sourceforge.net/)
@@ -80,6 +79,9 @@ Server-less program for internet communications, including public and private me
 
 * [**Orbit**](https://github.com/haadcode/orbit)
 Distributed, serverless chat application on IPFS.
+
+* [**Diaspora**](https://diasporafoundation.org/)
+Distributed social network, Diaspora consists of a group of independently owned nodes (called pods)
 
 
 ### Platforms & Frameworks
