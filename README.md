@@ -60,8 +60,11 @@ Secure sharing software for messages, forums and chats.
 * [**Bitmessage**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
 
+* [**Ring**](https://ring.cx/)
+P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
+
 * [**Tox**](https://tox.chat/)
-Secure & open-source instant messaging.
+P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
 
 * [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
