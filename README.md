@@ -35,6 +35,12 @@ It's similar to Freenet, GNUnet and Tor.
 * [**Aether**](http://getaether.net/)
 Anonymous reddit without servers.
 
+* [**Plume**](https://github.com/deiu/solid-plume/)
+Plume is a 100% client-side blogging platform, built using [Solid](https://solid.mit.edu/) standards
+
+* [**Cimba**](https://github.com/linkeddata/cimba/)
+Client-Integrated Micro-Blogging Architecture application.
+
 * [**twister**](http://twister.net.co/)
 P2P microblogging platform.
 
@@ -51,7 +57,6 @@ P2P search engine.
 P2P Decentralized Twitter and Micromessage harvester
 
 
-
 ### Communication
 
 * [**Retroshare**](http://retroshare.sourceforge.net/)
@@ -60,8 +65,11 @@ Secure sharing software for messages, forums and chats.
 * [**Bitmessage**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
 
+* [**Ring**](https://ring.cx/)
+P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
+
 * [**Tox**](https://tox.chat/)
-Secure & open-source instant messaging.
+P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
 
 * [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
@@ -71,6 +79,9 @@ Server-less program for internet communications, including public and private me
 
 * [**Orbit**](https://github.com/haadcode/orbit)
 Distributed, serverless chat application on IPFS.
+
+* [**Diaspora**](https://diasporafoundation.org/)
+Distributed social network, Diaspora consists of a group of independently owned nodes (called pods)
 
 
 ### Platforms & Frameworks
