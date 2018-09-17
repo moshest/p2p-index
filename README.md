@@ -71,6 +71,9 @@ P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging 
 * [**Tox**](https://tox.chat/)
 P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
 
+* [**Riot**](https://about.riot.im/)
+Distributed(Matrix.org network), Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference
+
 * [**Bleep**](http://www.bleep.pm/)
 Fun & safe messaging app for private conversations.
 
@@ -106,6 +109,9 @@ Encrypted mesh protocol.
 
 * [**Meshnet**](https://projectmeshnet.org/)
 Decentralized secure network.
+
+* [**Matrix**](https://matrix.org/blog/)
+Open network for secure, decentralized communication.
 
 * [**GNUnet**](https://gnunet.org/)
 Secure framework for peer-to-peer networking.
