@@ -196,6 +196,3 @@ A decentralised, end-to-end encrypted Internet.
 
 * [**Synereo**](http://www.synereo.com/)
 Fully decentralized and distributed social platform.
-
-* [**OpenLibernet**](http://openlibernet.org/)
-Global mesh communication network.
