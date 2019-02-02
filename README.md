@@ -56,6 +56,8 @@ P2P search engine.
 * [**Loklak**](http://loklak.org/)
 P2P Decentralized Twitter and Micromessage harvester
 
+* [**Beaker Browser**](https://beakerbrowser.com/)
+Web browser which enables people to browse websites published on the Dat P2P protocol.
 
 ### Communication
 
@@ -186,6 +188,8 @@ Private sync & file sharing for your files.
 * [**Librevault**](https://librevault.com/)
 Open source zero-knowledge P2P file sync.
 
+* [**Dat**](https://datproject.org/)
+Share versioned archives over a P2P network.
 
 ### In Progress..
 
