@@ -67,8 +67,8 @@ Secure sharing software for messages, forums and chats.
 * [**Bitmessage**](https://bitmessage.org/wiki/Main_Page)
 Send encrypted messages to another person or to many subscribers.
 
-* [**Ring**](https://ring.cx/)
-P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
+* [**Jami**](https://jami.net/)
+P2P Secure(end-to-end encrypted) & crossplatform open-source instant messaging and audio/video calls.
 
 * [**Tox**](https://tox.chat/)
 P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference.
