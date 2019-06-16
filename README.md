@@ -76,9 +76,6 @@ P2P Secure(end-to-end encryption) & crossplatform open-source instant messaging 
 * [**Riot**](https://about.riot.im/)
 Distributed(Matrix.org network), Secure(end-to-end encryption) & crossplatform open-source instant messaging and video conference
 
-* [**Bleep**](http://www.bleep.pm/)
-Fun & safe messaging app for private conversations.
-
 * [**Classified-Ads**](https://github.com/operatornormal/classified-ads/)
 Server-less program for internet communications, including public and private messages.
 
