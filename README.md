@@ -161,6 +161,8 @@ Peer-to-peer network of Git repositories being shared over BitTorrent.
 * [**WebTorrent**](https://github.com/feross/webtorrent)
 Streaming torrent client for node & the browser.
 
+* [**P2P Media Loader**](https://github.com/Novage/p2p-media-loader)
+P2P assisted video streaming of live and VOD media directly in a web browser.
 
 ### Storage
 
