@@ -17,7 +17,7 @@ This list is published under [GNU GPLv3](LICENSE).
 
 [Finance](#finance)
 
-[Data Transfer & Streamming](#data-transfer--streamming)
+[Data Transfer & Streaming](#data-transfer--streaming)
 
 [Storage](#storage)
 
@@ -144,7 +144,7 @@ Decentralised crowdfunding built on Etherum
 
 
 
-### Data Transfer & Streamming
+### Data Transfer & Streaming
 
 * [**PeerCDN**](http://peercdn.com)
 A peer-to-peer CDN, using only JavaScript!
