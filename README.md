@@ -142,6 +142,10 @@ P2P platform for tipping on all of the web's sites.
 * [**Weifund**](http://weifund.io/)
 Decentralised crowdfunding built on Etherum
 
+* [**Unstoppable**](https://unstoppable.money)
+Fully decentralised wallet app built on Bitcoin and Ethereum blockchains
+
+
 
 
 ### Data Transfer & Streaming
