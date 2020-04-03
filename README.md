@@ -29,7 +29,7 @@ This list is published under [GNU GPLv3](LICENSE).
 * [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
 
-* [**I2P**](http://i2pproject.net)
+* [**I2P**](https://geti2p.net/en/)
 It's similar to Freenet, GNUnet and Tor.
 
 * [**Aether**](http://getaether.net/)
