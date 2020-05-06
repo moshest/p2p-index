@@ -7,6 +7,7 @@ More project can be found here: https://www.gnunet.org/links/
 
 This list is published under [GNU GPLv3](LICENSE).
 
+
 ## Index
 
 [Web](#web)
@@ -26,6 +27,9 @@ This list is published under [GNU GPLv3](LICENSE).
 
 ### Web
 
+* [**LokiNet**](https://lokinet.org/)
+Onion routing blockchain network for publishing & messaging
+
 * [**ZeroNet**](https://github.com/HelloZeroNet/ZeroNet)
 Decentralized websites using Bitcoin crypto and BitTorrent network.
 
@@ -41,7 +45,7 @@ Plume is a 100% client-side blogging platform, built using [Solid](https://solid
 * [**Cimba**](https://github.com/linkeddata/cimba/)
 Client-Integrated Micro-Blogging Architecture application.
 
-* [**twister**](http://twister.net.co/)
+* [**Twister**](http://twister.net.co/)
 P2P microblogging platform.
 
 * [**Project Maelstrom**](http://project-maelstrom.bittorrent.com/)
@@ -59,7 +63,11 @@ P2P Decentralized Twitter and Micromessage harvester
 * [**Beaker Browser**](https://beakerbrowser.com/)
 Web browser which enables people to browse websites published on the Dat P2P protocol.
 
+
 ### Communication
+
+* [**Session**](https://getsession.org/)
+Decentralized fork of [Signal](https://www.signal.org/) running on LokiNet
 
 * [**Retroshare**](http://retroshare.sourceforge.net/)
 Secure sharing software for messages, forums and chats.
@@ -88,7 +96,7 @@ Distributed social network, Diaspora consists of a group of independently owned 
 
 ### Platforms & Frameworks
 
-* [**ethereum**](https://www.ethereum.org/)
+* [**Ethereum**](https://www.ethereum.org/)
 Blockchain-based virtual machine and Web 3.0 platform.
 
 * [**Blockstack**](https://blockstack.org)
@@ -103,7 +111,10 @@ Building decentralized applications platform.
 * [**WebRTC**](http://www.webrtc.org/)
 Provide browsers and mobile applications real-time P2P communication.
 
-* [**telehash**](http://telehash.org/)
+* [**Salsify**](https://snr.stanford.edu/salsify/)
+Next generation replacement for WebRTC (cites 4.6x latency reduction & 60% better quality)
+
+* [**Telehash**](http://telehash.org/)
 Encrypted mesh protocol.
 
 * [**Meshnet**](https://projectmeshnet.org/)
@@ -146,8 +157,6 @@ Decentralised crowdfunding built on Etherum
 Fully decentralised wallet app built on Bitcoin and Ethereum blockchains
 
 
-
-
 ### Data Transfer & Streaming
 
 * [**PeerCDN**](http://peercdn.com)
@@ -165,8 +174,30 @@ Peer-to-peer network of Git repositories being shared over BitTorrent.
 * [**WebTorrent**](https://github.com/feross/webtorrent)
 Streaming torrent client for node & the browser.
 
+* [**LiveTorrent**](https://github.com/pldubouilh/live-torrent)
+Live streaming solution based on WebTorrent
+
 * [**P2P Media Loader**](https://github.com/Novage/p2p-media-loader)
 P2P assisted video streaming of live and VOD media directly in a web browser.
+
+* [**tvbus.pc**](https://github.com/binstreamio/tvbus.pc)
+Live streaming SDK
+
+* [**CDNbye**](https://demo.cdnbye.com/)
+Peer based video distribution (based on WebRTC)
+
+* [**WebRTC Scalable Broadcast**](https://github.com/muaz-khan/WebRTC-Scalable-Broadcast)
+Peer based video distribution (based on WebRTC)
+
+* [**PeerTube**](https://framablog.org/2019/11/12/peertube-has-worked-twice-as-hard-to-free-your-videos-from-youtube)
+Decentralized YouTube alternative (live stream support in development)
+
+* [**PPSP**](https://datatracker.ietf.org/wg/ppsp/charter/)
+IETF proposed standard for peer-based streaming
+
+* [**PeerStreamer-NG**](http://peerstreamer.org/)
+Completely decentralized streaming for mesh networks
+
 
 ### Storage
 
@@ -193,6 +224,7 @@ Open source zero-knowledge P2P file sync.
 
 * [**Dat**](https://datproject.org/)
 Share versioned archives over a P2P network.
+
 
 ### In Progress..
 
