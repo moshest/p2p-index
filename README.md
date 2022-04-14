@@ -198,6 +198,9 @@ IETF proposed standard for peer-based streaming
 * [**PeerStreamer-NG**](http://peerstreamer.org/)
 Completely decentralized streaming for mesh networks
 
+* [**GunDB**](https://gun.eco/)
+Platform for syncing decentralized graph data
+
 
 ### Storage
 
