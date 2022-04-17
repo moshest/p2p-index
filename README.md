@@ -64,7 +64,7 @@ P2P Decentralized Twitter and Micromessage harvester
 Web browser which enables people to browse websites published on the Dat P2P protocol.
 
 * [**Agregore Browser**](https://agregore.mauve.moe/)
-A Web Browser that supports multiple P@P protocols.
+A Web Browser that supports multiple P2P protocols.
 
 
 ### Communication
