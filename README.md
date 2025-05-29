@@ -66,6 +66,8 @@ Web browser which enables people to browse websites published on the Dat P2P pro
 * [**Agregore Browser**](https://agregore.mauve.moe/)
 A Web Browser that supports multiple P2P protocols.
 
+* [**WarpNet**](https://github.com/Warp-net/warpnet)
+Decentralized, peer-to-peer social network inspired by Twitter
 
 ### Communication
 
