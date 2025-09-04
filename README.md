@@ -98,6 +98,9 @@ Distributed, serverless chat application on IPFS.
 * [**Diaspora**](https://diasporafoundation.org/)
 Distributed social network, Diaspora consists of a group of independently owned nodes (called pods)
 
+* [**P2Party**](https://p2party.com)
+WebRTC rooms with a unique link, e2e encryption, file sharing, whitelist/blacklist. [Source code](https://github.com/p2party/p2party-js).
+
 
 ### Platforms & Frameworks
 
