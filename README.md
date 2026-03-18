@@ -104,6 +104,9 @@ P2P social network similar to Twitter with decentralized gossip protocol
 * [**P2Party**](https://p2party.com)
 WebRTC rooms with a unique link, e2e encryption, file sharing, whitelist/blacklist. [Source code](https://github.com/p2party/p2party-js).
 
+* [Spixi](https://www.spixi.io) 
+Decentralized P2P messenger with post-quantum encryption. No servers. Runs on Ixian [Source code] (https://github.com/ixian-platform/Spixi)
+
 
 ### Platforms & Frameworks
 
@@ -145,6 +148,9 @@ A decentralized, open, programmable media library.
 
 * [***RemoteLib***](https://github.com/remotelib/remote-lib)
 Convert JavaScript code to a remote service.
+
+* [**Ixian**](https://www.ixian.io/)
+Decentralized P2P platform with DLT, presence-based discovery, and post-quantum cryptography.
 
 
 ### Finance
