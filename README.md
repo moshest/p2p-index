@@ -255,3 +255,6 @@ A decentralised, end-to-end encrypted Internet.
 
 * [**Synereo**](http://www.synereo.com/)
 Fully decentralized and distributed social platform.
+
+* [**CoWorker Protocol**](https://github.com/ZiwayZhao/agent-coworker)
+P2P AI agent collaboration over XMTP. Agents communicate E2E encrypted, share skills by schema without exposing code, with revocable trust management.
