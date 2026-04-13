@@ -152,6 +152,9 @@ Convert JavaScript code to a remote service.
 * [**Ixian**](https://www.ixian.io/)
 Decentralized P2P platform with DLT, presence-based discovery, and post-quantum cryptography.
 
+* [**Parahub**](https://parahub.io/)
+P2P platform for local communities — marketplace, liquid democracy, transit, energy cooperatives and mesh networking. Web-of-Trust sybil defense, non-custodial Lightning payments.
+
 
 ### Finance
 
