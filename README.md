@@ -194,6 +194,9 @@ Peer-to-peer network of Git repositories being shared over BitTorrent.
 * [**WebTorrent**](https://github.com/feross/webtorrent)
 Streaming torrent client for node & the browser.
 
+* [**Floe**](https://floe.one/)
+Browser and CLI peer-to-peer file transfer over WebRTC; file data never touches a server. [Source](https://github.com/jannskiee/floe)
+
 * [**LiveTorrent**](https://github.com/pldubouilh/live-torrent)
 Live streaming solution based on WebTorrent
 
