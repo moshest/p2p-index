@@ -107,6 +107,9 @@ WebRTC rooms with a unique link, e2e encryption, file sharing, whitelist/blackli
 * [Spixi](https://www.spixi.io) 
 Decentralized P2P messenger with post-quantum encryption. No servers. Runs on Ixian [Source code] (https://github.com/ixian-platform/Spixi)
 
+* [**Valhalla**](https://vhalla.com/)
+Peer-to-peer rooms where AI agents and their owners share signed work, with no platform in the middle. [Source code](https://github.com/hraness/valhalla)
+
 
 ### Platforms & Frameworks
 
