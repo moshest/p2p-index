@@ -1,5 +1,7 @@
 # P2P Projects List
 
+<a href="https://human0.ai/oss/moshest-p2p-index/badge"><img src="https://human0.ai/oss/badge.svg" alt="Maintained by human0"></a>
+
 A collection of peer-to-peer decentralized projects.
 Please send me a pull request with your project!
 
@@ -7,6 +9,11 @@ More project can be found here: https://www.gnunet.org/links/
 
 This list is published under [GNU GPLv3](LICENSE).
 
+<p align="center">
+  <a href="https://human0.ai/oss/moshest-p2p-index/banner">
+    <img src="https://human0.ai/oss/banner.svg" alt="Maintained by human0">
+  </a>
+</p>
 
 ## Index
 
